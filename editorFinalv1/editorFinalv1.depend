@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1537251687 source:c:\users\caifa\desktop\editorfinalv1\fver1.c
+	"graphics.h"
+	"screen.h"
+
+1266065414 c:\users\caifa\desktop\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1537251632 c:\users\caifa\desktop\editorfinalv1\screen.h
+	"boton.h"
+	"grid.h"
+
+1537251632 c:\users\caifa\desktop\editorfinalv1\boton.h
+
+1537328546 source:c:\users\caifa\desktop\editorfinalv1\screen.c
+	"boton.h"
+	"preview.h"
+	"graphics.h"
+	"text.h"
+	"file.h"
+	"colors.h"
+
+1537251632 source:c:\users\caifa\desktop\editorfinalv1\boton.c
+	"graphics.h"
+	"boton.h"
+
+1537251632 source:c:\users\caifa\desktop\editorfinalv1\grid.c
+	"graphics.h"
+	"text.h"
+	"preview.h"
+	"file.h"
+	"screen.h"
+
+1537251632 c:\users\caifa\desktop\editorfinalv1\grid.h
+	"boton.h"
+
+1537251632 source:c:\users\caifa\desktop\editorfinalv1\file.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+	<string.h>
+
+1537251632 c:\users\caifa\desktop\editorfinalv1\file.h
+	"grid.h"
+
+1537251632 source:c:\users\caifa\desktop\editorfinalv1\colors.c
+	"colors.h"
+	"graphics.h"
+
+1537251632 c:\users\caifa\desktop\editorfinalv1\colors.h
+
+1537251632 source:c:\users\caifa\desktop\editorfinalv1\text.c
+	"graphics.h"
+	"text.h"
+
+1537251632 c:\users\caifa\desktop\editorfinalv1\text.h
+	"grid.h"
+
+1537251632 c:\users\caifa\desktop\editorfinalv1\preview.h
+	"grid.h"
+
+1537251632 source:c:\users\caifa\desktop\editorfinalv1\preview.c
+	"graphics.h"
+	"preview.h"
+
